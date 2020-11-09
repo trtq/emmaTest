@@ -1,0 +1,1079 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactScroll snapshot 1`] = `
+Array [
+  <View
+    style={
+      Object {
+        "paddingBottom": 14.888392857142858,
+        "paddingTop": 40.198660714285715,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "white",
+          "borderColor": "#ececec",
+          "borderTopWidth": 0,
+          "bottom": 0,
+          "height": 20,
+          "left": 0,
+          "opacity": 0.028453608247422674,
+          "position": "absolute",
+          "right": 0,
+          "shadowColor": "#000",
+          "shadowOpacity": 0.08,
+          "shadowRadius": 1.5,
+          "transform": Array [
+            Object {
+              "rotate": "-180deg",
+            },
+          ],
+        }
+      }
+    />
+    <RCTScrollView
+      centerContent={true}
+      contentContainerStyle={
+        Object {
+          "paddingHorizontal": 287.13768115942025,
+        }
+      }
+      data={
+        Array [
+          Object {
+            "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+            "firstName": "Ashley",
+            "image": Object {
+              "testUri": "../../../assets/images/AllanMunger.png",
+            },
+            "restOfName": "Mc Carty",
+            "role": "Sales Representative",
+          },
+          Object {
+            "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+            "firstName": "Robert",
+            "image": Object {
+              "testUri": "../../../assets/images/AmandaBrady.png",
+            },
+            "restOfName": "De Niro",
+            "role": "Writer",
+          },
+          Object {
+            "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+            "firstName": "Jackie",
+            "image": Object {
+              "testUri": "../../../assets/images/AshleyMcCarthy.png",
+            },
+            "restOfName": "Chan",
+            "role": "Writer",
+          },
+          Object {
+            "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+            "firstName": "Samuel",
+            "image": Object {
+              "testUri": "../../../assets/images/AllanMunger.png",
+            },
+            "restOfName": "L Jackson",
+            "role": "Writer",
+          },
+          Object {
+            "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+            "firstName": "Evgeny",
+            "image": Object {
+              "testUri": "../../../assets/images/CarlosSlattery.png",
+            },
+            "restOfName": "Ivanitsy",
+            "role": "Writer",
+          },
+          Object {
+            "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+            "firstName": "Natalie",
+            "image": Object {
+              "testUri": "../../../assets/images/CarolePoland.png",
+            },
+            "restOfName": "Portman",
+            "role": "Writer",
+          },
+        ]
+      }
+      decelerationRate="fast"
+      disableVirtualization={false}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={true}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      onTouchStart={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={16}
+      showsHorizontalScrollIndicator={false}
+      snapToInterval={175.72463768115944}
+      stickyHeaderIndices={Array []}
+      updateCellsBatchingPeriod={50}
+      viewabilityConfigCallbackPairs={Array []}
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "borderRadius": 151.90320910973085,
+                "height": 151.90320910973085,
+                "justifyContent": "center",
+                "marginHorizontal": 14.492753623188406,
+                "opacity": 1,
+                "overflow": "hidden",
+                "width": 151.90320910973085,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cce0f2",
+                  "borderRadius": 151.90320910973085,
+                  "bottom": 0,
+                  "left": 0,
+                  "opacity": 0.9943092783505154,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            />
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "testUri": "../../../assets/images/AllanMunger.png",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 138.5036555383023,
+                  "height": 138.5036555383023,
+                  "width": 138.5036555383023,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "borderRadius": 151.90320910973085,
+                "height": 151.90320910973085,
+                "justifyContent": "center",
+                "marginHorizontal": 14.492753623188406,
+                "opacity": 1,
+                "overflow": "hidden",
+                "width": 151.90320910973085,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cce0f2",
+                  "borderRadius": 151.90320910973085,
+                  "bottom": 0,
+                  "left": 0,
+                  "opacity": 0.005690721649484536,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            />
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "testUri": "../../../assets/images/AllanMunger.png",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 138.5036555383023,
+                  "height": 138.5036555383023,
+                  "width": 138.5036555383023,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "borderRadius": 151.90320910973085,
+                "height": 151.90320910973085,
+                "justifyContent": "center",
+                "marginHorizontal": 14.492753623188406,
+                "opacity": 1,
+                "overflow": "hidden",
+                "width": 151.90320910973085,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cce0f2",
+                  "borderRadius": 151.90320910973085,
+                  "bottom": 0,
+                  "left": 0,
+                  "opacity": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            />
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "testUri": "../../../assets/images/AllanMunger.png",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 138.5036555383023,
+                  "height": 138.5036555383023,
+                  "width": 138.5036555383023,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "borderRadius": 151.90320910973085,
+                "height": 151.90320910973085,
+                "justifyContent": "center",
+                "marginHorizontal": 14.492753623188406,
+                "opacity": 1,
+                "overflow": "hidden",
+                "width": 151.90320910973085,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cce0f2",
+                  "borderRadius": 151.90320910973085,
+                  "bottom": 0,
+                  "left": 0,
+                  "opacity": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            />
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "testUri": "../../../assets/images/AllanMunger.png",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 138.5036555383023,
+                  "height": 138.5036555383023,
+                  "width": 138.5036555383023,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "borderRadius": 151.90320910973085,
+                "height": 151.90320910973085,
+                "justifyContent": "center",
+                "marginHorizontal": 14.492753623188406,
+                "opacity": 1,
+                "overflow": "hidden",
+                "width": 151.90320910973085,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cce0f2",
+                  "borderRadius": 151.90320910973085,
+                  "bottom": 0,
+                  "left": 0,
+                  "opacity": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            />
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "testUri": "../../../assets/images/AllanMunger.png",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 138.5036555383023,
+                  "height": 138.5036555383023,
+                  "width": 138.5036555383023,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "borderRadius": 151.90320910973085,
+                "height": 151.90320910973085,
+                "justifyContent": "center",
+                "marginHorizontal": 14.492753623188406,
+                "opacity": 1,
+                "overflow": "hidden",
+                "width": 151.90320910973085,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#cce0f2",
+                  "borderRadius": 151.90320910973085,
+                  "bottom": 0,
+                  "left": 0,
+                  "opacity": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }
+            />
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "testUri": "../../../assets/images/AllanMunger.png",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 138.5036555383023,
+                  "height": 138.5036555383023,
+                  "width": 138.5036555383023,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>,
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+          "firstName": "Ashley",
+          "image": Object {
+            "testUri": "../../../assets/images/AllanMunger.png",
+          },
+          "restOfName": "Mc Carty",
+          "role": "Sales Representative",
+        },
+        Object {
+          "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+          "firstName": "Robert",
+          "image": Object {
+            "testUri": "../../../assets/images/AmandaBrady.png",
+          },
+          "restOfName": "De Niro",
+          "role": "Writer",
+        },
+        Object {
+          "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+          "firstName": "Jackie",
+          "image": Object {
+            "testUri": "../../../assets/images/AshleyMcCarthy.png",
+          },
+          "restOfName": "Chan",
+          "role": "Writer",
+        },
+        Object {
+          "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+          "firstName": "Samuel",
+          "image": Object {
+            "testUri": "../../../assets/images/AllanMunger.png",
+          },
+          "restOfName": "L Jackson",
+          "role": "Writer",
+        },
+        Object {
+          "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+          "firstName": "Evgeny",
+          "image": Object {
+            "testUri": "../../../assets/images/CarlosSlattery.png",
+          },
+          "restOfName": "Ivanitsy",
+          "role": "Writer",
+        },
+        Object {
+          "description": "Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.",
+          "firstName": "Natalie",
+          "image": Object {
+            "testUri": "../../../assets/images/CarolePoland.png",
+          },
+          "restOfName": "Portman",
+          "role": "Writer",
+        },
+      ]
+    }
+    decelerationRate="fast"
+    disableVirtualization={false}
+    extraData={1334}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    onTouchStart={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={16}
+    showsVerticalScrollIndicator={false}
+    snapToInterval={1334}
+    stickyHeaderIndices={Array []}
+    style={
+      Object {
+        "flex": 1,
+        "width": "100%",
+      }
+    }
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "paddingHorizontal": 39.85507246376812,
+                "paddingTop": 43.47826086956522,
+              },
+              Object {
+                "height": 1334,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 31.265625000000004,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Ashley
+               
+            </Text>
+            Mc Carty
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+                "marginBottom": 49.13169642857143,
+                "marginTop": 8.933035714285715,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            Sales Representative
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 22.33258928571429,
+                "fontWeight": "bold",
+                "marginBottom": 11.910714285714286,
+              }
+            }
+          >
+            About me
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+              }
+            }
+          >
+            Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "paddingHorizontal": 39.85507246376812,
+                "paddingTop": 43.47826086956522,
+              },
+              Object {
+                "height": 1334,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 31.265625000000004,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Robert
+               
+            </Text>
+            De Niro
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+                "marginBottom": 49.13169642857143,
+                "marginTop": 8.933035714285715,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            Writer
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 22.33258928571429,
+                "fontWeight": "bold",
+                "marginBottom": 11.910714285714286,
+              }
+            }
+          >
+            About me
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+              }
+            }
+          >
+            Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "paddingHorizontal": 39.85507246376812,
+                "paddingTop": 43.47826086956522,
+              },
+              Object {
+                "height": 1334,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 31.265625000000004,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Jackie
+               
+            </Text>
+            Chan
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+                "marginBottom": 49.13169642857143,
+                "marginTop": 8.933035714285715,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            Writer
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 22.33258928571429,
+                "fontWeight": "bold",
+                "marginBottom": 11.910714285714286,
+              }
+            }
+          >
+            About me
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+              }
+            }
+          >
+            Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "paddingHorizontal": 39.85507246376812,
+                "paddingTop": 43.47826086956522,
+              },
+              Object {
+                "height": 1334,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 31.265625000000004,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Samuel
+               
+            </Text>
+            L Jackson
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+                "marginBottom": 49.13169642857143,
+                "marginTop": 8.933035714285715,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            Writer
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 22.33258928571429,
+                "fontWeight": "bold",
+                "marginBottom": 11.910714285714286,
+              }
+            }
+          >
+            About me
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+              }
+            }
+          >
+            Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "paddingHorizontal": 39.85507246376812,
+                "paddingTop": 43.47826086956522,
+              },
+              Object {
+                "height": 1334,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 31.265625000000004,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Evgeny
+               
+            </Text>
+            Ivanitsy
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+                "marginBottom": 49.13169642857143,
+                "marginTop": 8.933035714285715,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            Writer
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 22.33258928571429,
+                "fontWeight": "bold",
+                "marginBottom": 11.910714285714286,
+              }
+            }
+          >
+            About me
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+              }
+            }
+          >
+            Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.
+          </Text>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "paddingHorizontal": 39.85507246376812,
+                "paddingTop": 43.47826086956522,
+              },
+              Object {
+                "height": 1334,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 31.265625000000004,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Natalie
+               
+            </Text>
+            Portman
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+                "marginBottom": 49.13169642857143,
+                "marginTop": 8.933035714285715,
+                "textAlign": "center",
+                "width": "100%",
+              }
+            }
+          >
+            Writer
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#222222",
+                "fontSize": 22.33258928571429,
+                "fontWeight": "bold",
+                "marginBottom": 11.910714285714286,
+              }
+            }
+          >
+            About me
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#888888",
+                "fontSize": 22.33258928571429,
+              }
+            }
+          >
+            Aliquam venenatis erat ac ligula blandit suscipit. Quisque sit amet auctor massa. Suspendisse potenti. Aenean laoreet sit amet massa sed ullamcorper. Cras mattis, enim sed molestie cursus, purus turpis dapibus eros, efficitur efficitur sem metus id velit. Nam lacus magna, laoreet pellentesque tristique vel, ultrices sed urna. Aenean rhoncus erat id egestas hendrerit. Maecenas molestie ipsum at lacus viverra tincidunt. Maecenas feugiat, sapien hendrerit blandit eleifend, neque odio hendrerit erat, nec feugiat ligula diam vestibulum ex.
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>,
+]
+`;
