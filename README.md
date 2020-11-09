@@ -51,11 +51,11 @@ __/ContactScroll
 
 A component that calls the IconCarousel and VerticalInfoScroll components and passes info between them
 
-__/__/IconCarousel
+__/ContactScroll/IconCarousel
 
 The horizontal flatlist with the portraits.
 
-__/__/VerticalInfoScroll
+__/ContactScroll/VerticalInfoScroll
 
 The vertical flatlist with the text.
 
