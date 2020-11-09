@@ -11,7 +11,7 @@ emmaTest is a small app that realises the test task for Emma.
 - Reads from a json in /assets folder
 - When the user presses on the central icon, a modal pops up.
 - A couple of tests.
-- The main component <ContactScroll /> is packaged "for distribution". <HomeScreen /> gets the data for it and passes it through props.
+- The main component ContactScroll is packaged "for distribution". HomeScreen gets the data for it and passes it through props.
 
 
 ![popup](https://i.imgur.com/Jr5DYkL.gif "popup")
